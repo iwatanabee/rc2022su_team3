@@ -28,3 +28,5 @@ yuki：4点<br>
 issei：6点<br>
 shuri：16点<br>
 shogo：20点<br>
+
+
