@@ -1,19 +1,20 @@
-# rc2022su_team3
-
-## Install
-depends on Ruby 2.x, Mittsu, OpenGL 3.3+, and GLFW 3.1.x<br>
-Mittsu:　https://github.com/danini-the-panini/mittsu
+<img src="https://github.com/iwatanabee/rc2022su_team3/assets/83575309/c9fb514b-0a22-4958-915b-378e071f69ec" width="500">  
 
 # たこの逆襲
 
 ## 作った経緯
-RubyCampに参加をして3Dシューティングゲームを作成。
-5日間でチーム開発をした
+RubyCamp2022 に参加をして、3Dシューティングゲームを作成。
+5日間、4人でチーム開発を行った
 
-## ゲームの目的
+## 技術
+depends on Ruby 2.x, Mittsu, OpenGL 3.3+, and GLFW 3.1.x<br>
+Mittsu:　https://github.com/danini-the-panini/mittsu
+
+## ゲームの内容
 きみはたこ星人だ。<br>
 B級フードの立ち位置にたこやきを置きたがりな人類に、たこやきの美味しさを広めよう。<br>
-60秒以内により多くの人間にたこやきを届けよう！<br>
+たこ焼きを積んだUFOを操作して、人間にたこ焼きを食べさせよう<br>
+60秒以内により多くの人間にたこやきを届けてスコアを競おう<br>
 
 ## 操作方法
 W：上移動<br>
